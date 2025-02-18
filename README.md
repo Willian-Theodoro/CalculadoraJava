@@ -1,2 +1,2 @@
 # CalculadoraJava
-Meu projeto de calculadora estruturado completamente na linguagem Java.
+Meu projeto de calculadora estruturado completamente estruturado na linguagem Java.
